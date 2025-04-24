@@ -1,0 +1,8 @@
+@media (min-width: 1024px) and (max-width: 1170px) {
+    .navUl {
+      gap: 20px !important; 
+    }
+    .navMenu{
+        font-size: 16px;
+    }
+  }
