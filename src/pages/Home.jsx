@@ -6,7 +6,9 @@ import PopularCategoriesSection from '../components/home/PopularCategoriesSectio
 import SupportSection from '../components/home/SupportSection';
 import WorksSection from '../components/home/WorksSection';
 import SupplierRewardsSection from '../components/home/SupplierRewardsSection';
-//import Test from "../components/home/Test";
+import ExperienceSupplierSection from '../components/home/ExperienceSupplierSection';
+
+
 
 const Home = () => {
     return (
@@ -15,12 +17,11 @@ const Home = () => {
             <StatsCardSection/>
             <SuppliersLoveSection/>
             <SupplierRewardsSection/>
+            <ExperienceSupplierSection/>
             <WorksSection/>
             <PopularCategoriesSection/>
             <SupportSection/>
-            
-            
-            {/* <Test/> */}
+           
         </div>
     );
 };

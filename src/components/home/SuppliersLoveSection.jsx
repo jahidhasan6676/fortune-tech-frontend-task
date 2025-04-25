@@ -7,7 +7,7 @@ const SuppliersLoveSection = () => {
         <div className="w-11/12 mx-auto mb-20">
             <div className="md:flex gap-10 space-y-10 md:space-y-0">
                 <div className='flex-1 flex flex-col justify-center'>
-                    <h1 className="text-3xl sm:text-4xl font-bold text-[#5e0523] mb-6">
+                    <h1 className="text-2xl md:text-4xl font-bold text-[#5e0523] mb-6">
                         Why Suppliers Love Care Me
                     </h1>
 
@@ -25,9 +25,9 @@ const SuppliersLoveSection = () => {
                                 <p className='absolute top-[-8px] left-[5px] flex justify-center items-center bg-[#5e0523] w-[22px] h-[22px] rounded-full text-white text-[10px]'>0%</p>
                                 <p className=''><i class="fa-solid fa-hand-holding text-[30px] text-[#5e0523] "></i></p>
                             </div>
-                            <h2 className="text-2xl font-semibold  ">
+                            <h1 className="text-[22px] font-semibold">
                                 0% Commission Fee
-                            </h2>
+                            </h1>
 
                         </div>
 
@@ -43,9 +43,9 @@ const SuppliersLoveSection = () => {
                     <div>
                         <div className='flex gap-5 mb-3'>
                             <p className='mt-1'><i class="fa-solid fa-file-shield text-[#5e0523] text-[30px]"></i></p>
-                            <h2 className="text-2xl font-semibold">
+                            <h1 className="text-[22px] font-semibold">
                             0 Penalty Charges
-                        </h2>
+                        </h1>
                         </div>
                         
                         <div className="pl-[59px]">

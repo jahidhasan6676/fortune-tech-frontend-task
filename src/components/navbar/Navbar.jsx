@@ -34,8 +34,8 @@ const Navbar = () => {
         {/* Right Side */}
         <div className="flex items-center gap-3">
           <div className="hidden lg:flex gap-6">
-            <button className="border px-6 py-2 text-[17px] font-medium rounded hover:bg-[#450000] hover:text-white transition cursor-pointer">Login</button>
-            <button className="border px-6 py-2 text-[17px] font-medium rounded bg-[#450000] text-white transition cursor-pointer">Start Selling</button>
+            <button className="border border-[#450000] px-6 py-2 text-[17px] font-medium rounded hover:bg-[#450000] hover:text-white transition cursor-pointer">Login</button>
+            <button className="border border-[#450000] px-6 py-2 text-[17px] font-medium rounded bg-[#450000] text-white transition cursor-pointer">Start Selling</button>
           </div>
 
           {/* Mobile Menu Button */}
@@ -87,10 +87,10 @@ const Navbar = () => {
         {/* Bottom Login/Start Selling */}
         <div className="absolute bottom-0 left-0 right-0 p-4 border-t border-gray-200">
           <div className="flex flex-col gap-2">
-            <button className="border px-3 py-[6px] text-[17px] font-medium rounded hover:bg-[#450000] hover:text-white transition">
+            <button className="border border-[#450000] px-3 py-[6px] text-[17px] font-medium rounded hover:bg-[#450000] hover:text-white transition">
               Login
             </button>
-            <button className="border px-3 py-[6px] text-[17px] font-medium rounded bg-[#450000] text-white transition">
+            <button className="border border-[#450000] px-3 py-[6px] text-[17px] font-medium rounded bg-[#450000] text-white transition">
               Start Selling
             </button>
           </div>

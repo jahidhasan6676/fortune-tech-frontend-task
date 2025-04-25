@@ -13,3 +13,20 @@ body{
       gap: 5px; 
     }
   }
+
+@media (min-width: 1200px) and (max-width: 1370px) {
+    .bordered {
+      width: 110px; 
+    }
+  }
+
+@media (min-width: 1024px) and (max-width: 1200px) {
+    .bordered {
+      width: 90px; 
+      left: 80px;
+    }
+    /* banner left margin */
+    .leftMargin{
+      padding-left: 48px !important;
+    }
+  }

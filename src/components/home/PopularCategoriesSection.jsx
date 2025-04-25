@@ -15,7 +15,7 @@ const PopularCategoriesSection = () => {
 
   return (
     <div className="w-11/12 mx-auto pb-20">
-        <h1 className="text-3xl font-bold text-[#5e0523] mb-10">
+        <h1 className="text-2xl md:text-4xl font-bold text-[#5e0523] mb-8">
           Popular Categories to Sell Online
         </h1>
         

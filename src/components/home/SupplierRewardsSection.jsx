@@ -18,7 +18,7 @@ const SupplierRewardsSection = () => {
                     {/* Reward 1 */}
                     <div className="border border-gray-200 bg-white rounded-lg p-5 lg:w-[270px] h-[310px] lg:mt-[-30px]">
                         <p><AiFillSound className='text-[40px] text-[#5f0624] -rotate-45' /></p>
-                        <h1 className="text-2xl font-semibold  mb-3">
+                        <h1 className="text-[22px] font-semibold  mb-3">
                             Free catalog visibility of ₹600
                         </h1>
                         <p className="text-[17px] text-gray-500">
@@ -29,7 +29,7 @@ const SupplierRewardsSection = () => {
                     {/* Reward 2 - Duplicate of first one as in the image */}
                     <div className="border border-gray-300 bg-white rounded-lg p-5 lg:w-[270px] h-[310px] lg:mt-[30px]">
                         <p><PiMoneyFill className='text-[40px] text-[#5f0624]' /></p>
-                        <h1 className="text-2xl font-semibold mb-3">
+                        <h1 className="text-[22px] font-semibold mb-3">
                             Free catalog visibility of ₹600
                         </h1>
                         <p className="text-[17px] text-gray-600">
