@@ -58,7 +58,7 @@ const Navbar = () => {
           isMenuOpen ? "translate-x-0" : "translate-x-full"
         } transition-transform duration-300 ease-in-out z-50 lg:hidden border-l border-gray-200`}
       >
-        <div className="flex justify-between items-center px-4 py-[38px] border-b border-gray-200">
+        <div className="flex justify-between items-center px-4 py-[30px] border-b border-gray-200">
           <span className="text-xl text-[#450000]">Menu</span>
           <button
             onClick={() => setIsMenuOpen(false)}
