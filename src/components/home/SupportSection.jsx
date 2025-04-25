@@ -5,8 +5,8 @@ const SupportSection = () => {
     return (
         <div className=" bg-[#f4f8ff] mb-20">
             <div className="w-11/12 mx-auto py-14 md:flex gap-10">
-                <div className="flex-1 flex items-center mb-8 ">
-                    <h1 className="text-2xl md:text-3xl font-bold text-[#5f0624]">
+                <div className="flex-1 flex items-center ">
+                    <h1 className="text-2xl md:text-4xl font-bold text-[#5f0624]">
                         Care Me Supplier Support <br /> Available 24/7
                     </h1>
 
